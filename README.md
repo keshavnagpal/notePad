@@ -1,2 +1,2 @@
 # notePad
-Simple Text Editor 
+Simple Text Editor with simplest gui made using tkinter without any fancy design
